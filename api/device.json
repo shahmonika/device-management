@@ -1,0 +1,113 @@
+[{
+    "Position":"10",
+    "Asset_Id":"",
+    "Locker_Size":"11X12",
+    "Recharger":"Scanner charger",
+    "Tag":"pics",
+  "code":"11111",
+    "status":null,
+  "statusDisplay":"Available"
+  },
+  {
+    "Position":"9",
+    "Asset_Id":"8888",
+    "Locker_Size":"11X12",
+    "Recharger":"Scanner charger",
+    "Tag":"pics",
+    "code":"11111",
+    "status":null,
+    "statusDisplay":"Available"
+  },
+  {
+  "Position":"11",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11411",
+  "status":null,
+  "statusDisplay":"Available"
+},{
+  "Position":"12",
+  "Asset_Id":"9999",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11114",
+  "status":null,
+  "statusDisplay":"Available"
+},{
+  "Position":"11",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+},
+  {
+    "Position":"16",
+    "Asset_Id":"2222",
+    "Locker_Size":"11X12",
+    "Recharger":"Scanner charger",
+    "Tag":"pics",
+    "code":"11112",
+    "status":null,
+    "statusDisplay":"Reserved"
+  },
+  {
+    "Position":"7",
+    "Asset_Id":"",
+    "Locker_Size":"11X12",
+    "Recharger":"Scanner charger",
+    "Tag":"pics",
+    "code":"11112",
+    "status":null,
+    "statusDisplay":"Reserved"
+  },{
+  "Position":"4",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+},{
+  "Position":"5",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+},{
+  "Position":"20",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+},{
+  "Position":"18",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+},{
+  "Position":"17",
+  "Asset_Id":"",
+  "Locker_Size":"11X12",
+  "Recharger":"Scanner charger",
+  "Tag":"pics",
+  "code":"11112",
+  "status":null,
+  "statusDisplay":"Reserved"
+}]
