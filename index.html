@@ -82,14 +82,16 @@
                                            filter-type="select"
                                            ng-model="status"
                                            placeholder="Status"
-                                           ng-change="filter()">
-                                    <md-option value=""> Statuses</md-option>
+                                           ng-change="gridActions.filter()"
+                                           aria-invalid="false">
+                                    <md-option value="">STARYR </md-option>
                                     <md-option ng-repeat="option in statusOptions track by option.value"
-                                               value="{{option.value}}">
+                                               value="{{option.value }}">
                                         {{option.text}}
                                     </md-option>
                                 </md-select>
                             </th>
+
                             <th ng-model="Asset_Id">
                                 <span>Asset Id</span>
                             </th>

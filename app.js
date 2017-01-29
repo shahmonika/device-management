@@ -1,8 +1,9 @@
-var express = require('express')
-var app = express()
+var express = require('express');
+var path = require('path');
+var app = express();
 app.use(express.static('public'));
 app.get('/', function (req, res) {
-    res.sendfile('index.html');
+    res.sendFile(path.join(__dirname, '/', 'index.html'));
 })
 
 app.get('/api', function (req, res) {
